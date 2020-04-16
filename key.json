@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "academicachievements",
+  "private_key_id": "f5693f1cb506e45bea231c71d3935d6cbd3f47c3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChcgqGgUL2K93w\n1n+aZi+MtcVNkYdQxbWBRd3ahptF44erthN6kiZNMY4MaUNVTDeCZwQQ77i3DwFg\ngInCrUHU+mFA4ut+JIe+WFxsxYsd/ANt9JK199ZSC0EBP139ib+bPmYpmAhEHFEe\n/ygTiM9D+XVZohMNdv9Gi7YKfU5gF+rz6HUey1JgS+IqfIEkKH5kl//CIm6eTuwW\nVqkmgbiLUSrnKU+NDhaTv7EVtgHMt+6NU8gIWRe+mZ02vEJjtYCsjSO/TK99myrd\ncFjpcWn0poF1j54pP0g/H7H0DXxZR9JzsHUtpb/z636gbUE2oYTHLT0k2nPUTtoO\nsp6IpeTrAgMBAAECggEALM+ZEU1mlyqE31jCMUpkr1MysP2QSACgiQGp+wI6rfLi\nEOyoSnCvdeSnz1UWTeIqVCUg0UygghsFoFH9Ks5pQ+K9RMPXZntgPBqNiNlp7Egr\ncYUdhamFUN9zyxNaFMn7p2zx8WCUBsevUoGzD3z9PppKkrb0P9wELgIQZKf0LaJ0\n6KBo4HUFIOGVLe5Eyr5KMSSHXMui98Wzr0AHWX9gjYDnbYymcqJPoGuLRuLC5uzN\n5YtUczqp+aCyi+G0RYw6QHGiUKIaao4HZlHveSCSs2Bk1QHtYxs+NpW87D5fX/+h\n8wHDem2mRoXEEh55q6BUNz1f5jhIZJAVMmM825cp8QKBgQDUyDQxC8rcgkjSykIn\nYy0IbLzoeNF11wevbpQkv0YKakekk5xMMq0LJEgm04zVysxlzFFJELFEOhXzZCkE\nQKHPUNdkRzyABO5/TCxxIRacAfAxGSAgV8yKbZpmq1/wpLDeMumdi8ogclHEfbG9\nFAyn5+H/jZLHDGk2ZS9GulMqGwKBgQDCPIufSsTEdC2L45h/aex+qpq/c1M2eE29\nSSf/i0kiL5/w3mkpVTQZFU+lhsKvrKsS9KfOzeYG+sFttRopPd9Zna/llvnxIa5o\nrBdb/eq9yuz4umf8IBhLiCEUARqlrCVFWS1CxPnZf/QOHNBjyUXAhxaeXx401+8S\nYIeqxTXdcQKBgBpT70lGSUKBiFs0lXzkI5VQRwuIr3oiMhw91Wy6kgMF5Xlynjs7\nZffj9F2BfYKShjnuTvx4aUak3URxVzXkfWD2gsAwpEa+1XfAyBrzWiXRg5O/pR77\nXh6esyUS/Vr8Nbo4mHla65aaLo3ec5iOm4ZHBcqmDMw+N+J4IKJiuZmTAoGAd9G5\nn64T68xvPFhN/mttREYh5/BQaM2VxyqVzgIyPzB5zbCl1qWE2eRXmZikCJLPhYX+\n7of9WljdcbvCQ6azXSj1FQApdyJ74H4oessMP8AqptT2yIVT92QmY5y6v3COHVWB\noiq4pf9UolAMDUJgEQBEZ7XtgFOkWwXJKwM000ECgYEAxAoT3W/uln596cEdEa5L\nS8jIZbcdSDLqOZIx5Sse/wzEUvZqn6wQmtJ9d7kKtOIa58UB1NL8LzwMHHB/T0rt\nKRgCyq+REmjcY8swM0dWpYOIPrhpYCkb5ymO/iLgt6wuJAArdQPXvjhNnNA0Y/Lp\n3exO2XrLEXh6+PQZjc/FBnQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kaggle@academicachievements.iam.gserviceaccount.com",
+  "client_id": "100057809713778658950",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kaggle%40academicachievements.iam.gserviceaccount.com"
+}
